@@ -17,7 +17,7 @@ I managed to get the app top work, due to alot of the code was in the oast modul
 
 ## Image
 
-[Alt text](image/budget.png "Budget-tracker")
+![Alt text](image/budget.png "Budget-tracker")
 
 ## Video Link
 
