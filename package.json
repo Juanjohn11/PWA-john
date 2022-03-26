@@ -17,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/Juanjohn11/PWA-john/issues"
   },
-  "homepage": "https://github.com/Juanjohn11/PWA-john#readme"
+  "homepage": "https://github.com/Juanjohn11/PWA-john#readme",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express": "^4.17.3",
+    "mongoose": "^6.2.8",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.15"
+  }
 }
